@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\EncapsulamentoCsharp.exe
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\EncapsulamentoCsharp.deps.json
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\EncapsulamentoCsharp.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\EncapsulamentoCsharp.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\EncapsulamentoCsharp.dll
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\ref\EncapsulamentoCsharp.dll
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\bin\Debug\net5.0\EncapsulamentoCsharp.pdb
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.dll
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\ref\EncapsulamentoCsharp.dll
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.pdb
+C:\Users\user\Projetos\ProjetosC#\EncapsulamentoCsharp\EncapsulamentoCsharp\obj\Debug\net5.0\EncapsulamentoCsharp.genruntimeconfig.cache
